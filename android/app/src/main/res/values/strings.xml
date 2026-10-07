@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Jogo do Jegue</string>
+    <string name="title_activity_main">Jogo do Jegue</string>
+    <string name="package_name">br.edu.senac.jogoburro</string>
+    <string name="custom_url_scheme">br.edu.senac.jogoburro</string>
+</resources>
